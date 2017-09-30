@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">QuantityView</string>
+
+  <string name="qv_add">+</string>
+  <string name="qv_remove">-</string>
+
+  <string name="qv_change">Change</string>
+  <string name="qv_cancel">Cancel</string>
+  <string name="qv_change_quantity">Change Quantity</string>
+  <string name="qv_max_qty_is">Maximum quantity allowed is</string>
+  <string name="qv_min_qty_is">Minimum quantity allowed is</string>
+  <string name="qv_enter_valid_number">Enter valid number</string>
+          
+</resources>

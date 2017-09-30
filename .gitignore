@@ -1,0 +1,10 @@
+clean-vs.cmd
+QuantityViewDemo/.vs/
+QuantityViewDemo/bin/
+QuantityViewDemo/obj/
+QuantityViewDemo/packages/
+QuantityViewLib/obj/
+QuantityViewLib/packages/
+QuantityViewLib/bin/
+QuantityViewLib/.vs/
+*.userprefs

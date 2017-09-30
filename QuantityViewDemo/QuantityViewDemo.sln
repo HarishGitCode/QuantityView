@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityViewDemo", "QuantityViewDemo.csproj", "{8A262F36-CD0A-4E16-8748-78C4CFA29706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityView", "..\QuantityViewLib\QuantityView.csproj", "{449E9AFB-4A1C-4728-A1F3-CED455523956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A262F36-CD0A-4E16-8748-78C4CFA29706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A262F36-CD0A-4E16-8748-78C4CFA29706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A262F36-CD0A-4E16-8748-78C4CFA29706}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A262F36-CD0A-4E16-8748-78C4CFA29706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A262F36-CD0A-4E16-8748-78C4CFA29706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449E9AFB-4A1C-4728-A1F3-CED455523956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449E9AFB-4A1C-4728-A1F3-CED455523956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449E9AFB-4A1C-4728-A1F3-CED455523956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449E9AFB-4A1C-4728-A1F3-CED455523956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00AE02A-B652-4A9D-B6DA-CC1DE22B565A}
+	EndGlobalSection
+EndGlobal

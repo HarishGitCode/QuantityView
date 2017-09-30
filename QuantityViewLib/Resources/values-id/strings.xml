@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="qv_change">Ubah</string>
+  <string name="qv_cancel">Batal</string>
+  <string name="qv_change_quantity">Ubah Kuantiti</string>
+  <string name="qv_max_qty_is">Maksimum kuantiti yang diperbolehkan adalah</string>
+  <string name="qv_min_qty_is">Minimum kuantiti yang diperbolehkan adalah</string>
+  <string name="qv_enter_valid_number">Inputkan nomer yang valid</string>
+</resources>
