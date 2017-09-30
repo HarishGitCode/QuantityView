@@ -1,7 +1,7 @@
 # QuantityView
 Android quantity view with add and remove button to simply use as a complex widget with handful of quick customizations.
 
-This is Xamarin.Android port of [](Himanshu Soni's QuantityView) (not Java binding)
+This is Xamarin.Android port of [Himanshu Soni's QuantityView](https://github.com/himanshu-soni/QuantityView) (not Java binding)
 
 [ ![Download](https://api.bintray.com/packages/himanshu-soni/maven/quantity-view/images/download.svg) ](https://www.nuget.org/packages/Karamunting.Android.HimanshuSoni.QuantityView/1.2.0)
 

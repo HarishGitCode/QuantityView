@@ -23,9 +23,9 @@
     <PackageId>Karamunting.Android.HimanshuSoni.QuantityView</PackageId>
     <PackageIconUrl>https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-09-29-191352.png</PackageIconUrl>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/himanshu-soni/QuantityView/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/rofiqsetiawan/QuantityView/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Rofiq Setiawan</Owners>
-    <PackageProjectUrl>https://github.com/himanshu-soni/QuantityView</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/rofiqsetiawan/QuantityView</PackageProjectUrl>
     <PackageReleaseNotes>- Add C# event handler for convenient development.
 - Move all text dialog and toast to Resource/String
 - Add Bahasa Indonesia (Indonesian) translation.</PackageReleaseNotes>
